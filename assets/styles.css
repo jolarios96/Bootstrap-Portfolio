@@ -1,0 +1,8 @@
+body {
+    background-color: red
+}
+
+.image-float-left{
+    float: left;
+    margin-right: 15px
+}

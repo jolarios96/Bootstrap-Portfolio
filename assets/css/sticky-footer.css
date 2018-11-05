@@ -2,6 +2,8 @@
 html {
     position: relative;
     min-height: 100%;
+
+    background-color: #e9ecef;
   }
 
 jumbotron.vertical-center {
@@ -18,6 +20,5 @@ jumbotron.vertical-center {
     width: 100%;
     height: 60px; /* Set the fixed height of the footer here */
     line-height: 60px; /* Vertically center the text there */
-    border-top: 2px cadetblue solid;
-    background-color: #f5f5f5;
   }
+/*  */
